@@ -19,7 +19,6 @@ main{
 
 .container{
     max-width: 380px;
-    height: 520px;
     border: 1px var(--Black) solid;
     background-color: var(--White);
     padding: 20px;
